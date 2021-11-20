@@ -2,6 +2,9 @@
 
 Shopping list is a simple web for storing shopping list. 
 
+## Live link
+https://farhancdr.github.io/shoppingList/
+
 ## Installation
 
 Just clone the project and open index.html file with your browser
